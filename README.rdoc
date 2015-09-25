@@ -1,3 +1,9 @@
+
+= IMPORTANT
+These are solutions to the problems on rubykoans.com -- "Learn Ruby with the
+Neo Ruby Koans".  Please go there for a reference to the original source,
+along with instructions.
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
